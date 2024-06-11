@@ -13,7 +13,7 @@ The Project Setup Unity Package is designed to automate the creation of a consis
 ## Installation
 
 ### Download the Package:
-- Download the `ProjectSetup.unitypackage` file from the [Releases](https://github.com/tonydpatterson/projectsetup/releases) page.
+- Download the `ProjectSetup.unitypackage` file from the [Releases](https://github.com/tonydpatterson/solacesetup/releases/) page.
 
 ### Import the Package into Your Project:
 1. Open your Unity project.
